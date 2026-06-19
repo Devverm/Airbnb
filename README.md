@@ -2,8 +2,6 @@
 
 An end-to-end Power BI dashboard project analyzing global Airbnb listing and review data across 10 major cities. Built with a focus on **real analytical thinking** — covering data modeling, DAX, Pareto analysis, seasonality, pricing strategy, and host trust insights.
 
-> 📺 This project is explained step by step on the **[Mansi G. YouTube channel](https://www.youtube.com/@MansiG)**. Each decision is taught with the *why*, not just the *how*.
-
 ---
 
 ## 📥 Dataset
