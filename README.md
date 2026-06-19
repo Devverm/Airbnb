@@ -1,4 +1,4 @@
-# 🏠 Airbnb Global Performance Dashboard — Power BI
+# 🏠 Airbnb Market Research
 
 An end-to-end Power BI dashboard project analyzing global Airbnb listing and review data across 10 major cities. Built with a focus on **real analytical thinking** — covering data modeling, DAX, Pareto analysis, seasonality, pricing strategy, and host trust insights.
 
